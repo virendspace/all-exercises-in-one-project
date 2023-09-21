@@ -1,0 +1,1 @@
+Project: all exercises in one project
